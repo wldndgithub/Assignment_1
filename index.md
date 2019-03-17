@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Joshua Her
 
-You can use the [editor on GitHub](https://github.com/wldndgithub/Assingment_1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Student number:s3609764
+Email: s3609764@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### My Background
+I'm a Korean living in Australia since 2 years of age, currently living in Melborune.
+I'm a barista at Starbucks by day and student by night.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
