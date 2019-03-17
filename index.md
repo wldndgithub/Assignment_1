@@ -8,7 +8,7 @@ Email: s3609764@student.rmit.edu.au
 I'm a Korean living in Australia for pretty much all my life, moving states from NSW to VIC.
 I'm a barista at Starbucks by day and student by night.
  
- #chicken
+ # chicken
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
