@@ -27,6 +27,7 @@ A job that requires knowledge of the technical things and experience in people m
 - Visual Learner
 - Creativity
 ![creativity](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/creativity.PNG)
+A "defender" is
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
