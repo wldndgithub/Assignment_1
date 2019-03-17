@@ -26,7 +26,7 @@ A job that requires knowledge of the technical things and experience in people m
 - Myers-Briggs test: “THE DEFENDER” (ISFJ-A)
 - Visual Learner
 - Creativity
-![creativity](Assignment_1/creativity.PNG)
+![creativity](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/creativity.PNG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
