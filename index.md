@@ -1,12 +1,14 @@
 ## Joshua Her
 
-Student number:s3609764
+Student number: s3609764
 
 Email: s3609764@student.rmit.edu.au
 
 ### My Background
-I'm a Korean living in Australia since 2 years of age, currently living in Melborune.
+I'm a Korean living in Australia for pretty much all my life, moving states from NSW to VIC.
 I'm a barista at Starbucks by day and student by night.
+ 
+ #chicken
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
