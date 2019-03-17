@@ -23,7 +23,8 @@ A job that requires knowledge of the technical things and experience in people m
 - Skills in project and performance management
 
 ### Personal Profile
-- Myers-Briggs test: “THE DEFENDER” (ISFJ-A) ![Defender](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/Defender.PNG)
+- Myers-Briggs test: “THE DEFENDER” (ISFJ-A)
+![Defender](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/Defender.PNG)
 - Visual Learner
 - Creativity
 ![creativity](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/creativity.PNG)
