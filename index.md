@@ -36,6 +36,5 @@ Learning best visually, I benefit greatly with images, graphs, etc as I may somt
 
 #### Overview
 The creation of a program that renders events and persons in the Bible, allowing for a visual and interactive representation in order to aid the learning of the Bible.
-##### help
 
-###### Lamb of God
+# josiah the good king
