@@ -38,7 +38,7 @@ Learning best visually, I benefit greatly with images, graphs, etc as I may somt
 The creation of a program that renders events and persons in the Bible, allowing for a visual and interactive representation in order to aid the learning of the Bible.
 
 ##### Motivation
-As a Faithful Christian and an avid gamer that enjoys open world games, it has always been heartbreaking that there is lack educative material that takes advantage of modern technology.
+As a faithful christian and an avid gamer that enjoys open world games for it's beautiful and immersivee nvironment, it has always been a wish to have high quality educative material that takes advantage of modern technology.
 
 ##### Description
 An interactive learning tool that illustrates the events of the Bible. The application would be much like an open world game that renders vast enironments eg. Assassin's Creed franchise, but without the fantasy aspect instead having a huge focus on historic accuracy.
@@ -53,4 +53,4 @@ A game engine(eg. Anvil) will be suitable for this application which will serve 
 A multitude of skills are required for such a strenuous project. Software development, audio engineering, animating and art creation, testing and quality assureance, scriptwriting, and indepth knowledge of the Bible and its events are the broad fields of expertise that would be required. Realisticly speaking it is impossible afford and make such expensive application but the tools and people who can help create such program exist
 
 ##### Outcome
-The creation of this application will serve as a great tool for people teaching the Bible as it provides and interactive and immersive world that shows and educate the Bible's events and settings in a fun and enjoyable way.
+The creation of this application will serve as a great tool for people teaching the Bible as it provides and interactive and immersive world that shows and educate the Bible's events and settings in a fun and enjoyable way. This will help educate and spark the falling interest of the younger generation of christians which experience modern technology from a very young age.
