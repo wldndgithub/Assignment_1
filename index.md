@@ -37,4 +37,10 @@ Learning best visually, I benefit greatly with images, graphs, etc as I may somt
 #### Overview
 The creation of a program that renders events and persons in the Bible, allowing for a visual and interactive representation in order to aid the learning of the Bible.
 
-# josiah the good king
+#### Motivation
+As a Faithful Christian and an avid gamer it has always been heartbreaking that there is lack educative material that takes advantage of modern technology.
+
+#### Description
+An interactive learning tool for people of all ages that illustrates the events of the Bible. The application would be much like an open world game that renders vast enironments eg. Assassin's Creed franchise,
+
+
