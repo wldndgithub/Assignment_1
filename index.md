@@ -6,7 +6,9 @@ Email: s3609764@student.rmit.edu.au
 
 ### My Background
 I'm a Korean living in Australia for pretty much all my life, moving states from NSW to VIC.
-I'm a barista at Starbucks by day and student by night.
+I'm fluent in korean and english, and have done japanese in highschool. my highest form of education is VCE and have wasted my time ever since. But now I have decided to gather my s#$t and become a better person through education.
+I currently work as barista at Starbucks in which I throughly enjoy, but not as much as my passion for gaming (reason for my wasted years).
+
  
  # chicken
 
