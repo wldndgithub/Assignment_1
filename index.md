@@ -50,7 +50,7 @@ An example of whatthe application would do is: showing the historic setting of "
 A game engine(eg. Anvil) will be suitable for this application which will serve as a development platform/environment that brings rendering engine, audio engine, physics engine and AI components in order to create the rich and immersive world to life.
 
 ##### Skills Required
-A multitude of skills are required for such a strenuous project. Software development, audio engineering, animating and art creation, testing and quality assureance, scriptwriting, and indepth knowledge of the Bible and its events are the broad fields of expertise that would be required. Realisticly speaking it is impossible afford and make such expensive application but the tools and people who can help create such program exist
+A multitude of skills are required for such a strenuous project. Software development, audio engineering, animating and art creation, testing and quality assureance, scriptwriting, and indepth knowledge of the Bible and its events are the broad fields of expertise that would be required. Realisticly speaking it is impossible afford and make such expensive application but the tools and people who can help create such program exist.
 
 ##### Outcome
 The creation of this application will serve as a great tool for people teaching the Bible as it provides and interactive and immersive world that shows and educate the Bible's events and settings in a fun and enjoyable way. This will help educate and spark the dropping interest of the younger generation of christians which experience modern technology from a very young age.
