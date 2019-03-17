@@ -34,22 +34,22 @@ Learning best visually, I benefit greatly with images, graphs, etc as I may somt
 
 ### Project Idea
 
-#### Overview
+##### Overview
 The creation of a program that renders events and persons in the Bible, allowing for a visual and interactive representation in order to aid the learning of the Bible.
 
-#### Motivation
+##### Motivation
 As a Faithful Christian and an avid gamer that enjoys open world games,it has always been heartbreaking that there is lack educative material that takes advantage of modern technology.
 
-#### Description
+##### Description
 An interactive learning tool that illustrates the events of the Bible. The application would be much like an open world game that renders vast enironments eg. Assassin's Creed franchise, but without the fantasy aspect and a huge focus on historic accuracy.
 Much like an RPG game the user would take control of a character, which is able to traverse the world of the Bible filled with interactive "spots" which can be things such as dialogue of NPC/s (non-player character), vantage points and replicas of artifacts and architecture. These "spots" when interacterd with will use artifacts, historic documents and quotations from the Bible to carefully explain the background stories, interesting facts and anything else that may be of significance.
  
 An example of whatthe application would do is: showing the historic setting of "Battle of David and Goliath", having comparisons of Goliaths height to relatable people(eg. Shaquille O'neal), weapons that were used in the battle and experience the battle unfold in 3rd person view as the player.
 
-#### Tools and Technologies
+##### Tools and Technologies
 A game engine will be suitable for this application which will serve as a development platform/environment that brings rendering engine, audio engine, physics engine and AI components in order to create the rich and immersive world to life.
 
-#### Skills Required
+##### Skills Required
 A multitude of skills are required for such a strenuous project. Software development, audio engineering, animating and art creation, testing and quality assureance, scriptwriting, and indepth knowledge of the Bible and its events are the broad fields of expertise that would be required. Realisticly speaking it is impossible afford and make such expensive application but the tools and people who can help create such program exist
 
 #### Outcome
