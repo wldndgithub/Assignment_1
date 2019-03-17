@@ -33,3 +33,5 @@ I'm a "defender" in a workplace, meaning I seek frictionless relationships, supp
 Learning best visually, I benefit greatly with images, graphs, etc as I may somtimes lack the creativity to see things beyond the surface. I would probably work well with anyone that becomes my team as I excell in human connections and great work ethics.
 
 ### Project Idea
+
+
