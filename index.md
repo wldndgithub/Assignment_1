@@ -12,7 +12,7 @@ I currently work as barista at Starbucks in which I throughly enjoy, but not as 
 ### Interest in IT
 My interest in IT was sparked by a close friend who told me if I was going to spend hours infront of my PC then I may as well look into the IT field which I can use the PC to my hearts content. After hearing this I decided to study IT as nothing else excites me (in terms of study).
 I've chosen RMIT's OUA course as I currently work full time for starbucks (due to financial reasons) leaving me unable to attend university beacause of my time constraints.
-Through this course I expect to learn all that I need to learn to find myself in the IT field. maybe in the gaming side of things.+
+Through this course I expect to learn all that I need to learn to find myself in the IT field. maybe in the gaming side of things.
 
 ### Ideal Job
 Although I'm not too sure about what path I will persue in the IT industry but something with a balance between technical and human to human interaction.
@@ -29,8 +29,8 @@ To me an ideal job would be one such as a [Lead program manager](https://careers
 - Learning style test: Visual Learner
 - Creativity test:
 ![creativity](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/creativity.PNG)
-I'm a "defender" in a workplace, meaning I seek frictionless relationships, supporting and helping others in order to get the work done.
-Learning best visually, I benefit greatly with images, graphs, etc as I may somtimes lack the creativity to see things beyond the surface. I would probably work well with anyone that becomes my team as I excell in human connections and great work ethics.
+I'm a "defender" in a workplace, which means that I seek frictionless relationships by supporting and helping others in order to get the work done. A true team player.
+Learning best visually, I benefit greatly with images, graphs, etc as I may somtimes lack the creativity to see things beyond the surface. I would probably work well with anyone that becomes my team as I excell in human connections and have great work ethics.
 
 ### Project Idea
 
