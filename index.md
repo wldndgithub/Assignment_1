@@ -26,8 +26,8 @@ A job that requires knowledge of the technical things and experience in people m
 - Myers-Briggs test: “THE DEFENDER” (ISFJ-A)
 
   ![Defender](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/Defender.PNG)
-- Visual Learner
-- Creativity
+- Learning style test: Visual Learner
+- Creativity test:
 ![creativity](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/creativity.PNG)
 I'm a "defender" in a workplace, meaning I seek frictionless relationships, supporting and helping others in order to get the work done.
 Learning best visually, I benefit greatly with images, graphs, etc as I may somtimes lack the creativity to see things beyond the surface. I would probably work well with anyone that becomes my team as I excell in human connections and great work ethics.
