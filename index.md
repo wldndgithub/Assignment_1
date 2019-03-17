@@ -24,6 +24,7 @@ A job that requires knowledge of the technical things and experience in people m
 
 ### Personal Profile
 - Myers-Briggs test: “THE DEFENDER” (ISFJ-A)
+
 ![Defender](https://raw.githubusercontent.com/wldndgithub/Assignment_1/master/Defender.PNG)
 - Visual Learner
 - Creativity
