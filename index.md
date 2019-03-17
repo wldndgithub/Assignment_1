@@ -16,11 +16,16 @@ Through this course I expect to learn all that I need to learn to find myself in
 
 ### Ideal Job
 Although I'm not too sure about what path I will persue in the IT industry but something with a balance between technical and human to human interaction.
-To me an ideal job would be one such as this: [Lead program manager](https://careers.blizzard.com/en-us/openings/oKvo9fww)
-A job that requires knowledge of the technical things and experience in people management hopefully in a game development company such eg. Blizzard Ent. This kind of job would require: -experience and knowledge in games, program development
--
+To me an ideal job would be one such as this: [Lead program manager](https://careers.blizzard.com/en-us/openings/oKvo9fww).
+A job that requires knowledge of the technical things and experience in people management hopefully in a game development company such eg. Blizzard Ent. This kind of job would require:
+- Bachelor's degree in relevant field (IT, project management)
+- Experience and knowledge in games, program development
+- Skills in project and performance management
 
-
+### Personal Profile
+- Myers-Briggs test: “THE DEFENDER” (ISFJ-A)
+- Visual Learner
+- Creativity
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
